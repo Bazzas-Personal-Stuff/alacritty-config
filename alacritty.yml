@@ -58,3 +58,4 @@ key_bindings:
   - { key: Slash,   mods: Control,        chars: "\x1f"               }
   - { key: Tab,     mods: Control,        chars: "\x1b[9;5u"          }
   - { key: Tab,     mods: Control|Shift,  chars: "\x1b[9;6u"          }
+  - { key: Back,    mods: Control,        chars: "\u0017"             }
