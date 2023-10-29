@@ -1,7 +1,7 @@
 # Device-specific
 shell:
   # program: C:/Program Files/nu/bin/nu.exe # Windows
-  program: nu # Linux
+  program: /home/linuxbrew/.linuxbrew/bin/nu # Linux
 
 # working_directory: C:/Dev/Projects
 
