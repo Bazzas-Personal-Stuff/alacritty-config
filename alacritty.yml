@@ -1,8 +1,9 @@
 # Device-specific
 shell:
-  program: C:/Program Files/nu/bin/nu.exe
+  # program: C:/Program Files/nu/bin/nu.exe # Windows
+  program: nu # Linux
 
-working_directory: C:/Dev/Projects
+# working_directory: C:/Dev/Projects
 
 
 # Colors (Nord)
